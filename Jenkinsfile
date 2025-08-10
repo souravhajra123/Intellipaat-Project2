@@ -10,7 +10,7 @@ pipeline {
       }
       steps {
         script {
-          git 'https://github.com/dakshdotintellipaat/website.git' 
+          git 'https://github.com/souravhajra123/Intellipaat-Project2.git' 
         }
       }
     }
